@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seth-coolister
-- 👀 I’m a junior UX/UI Designer
-- 🌱 I’m currently learning UX/UI Design through the University of Utah
+- 👀 I’m a UX/UI Designer
+- 🌱 I received a certificate of UX/UI from the Univeristy of Utah in June and a Bachelors of Science in Psychology from Utah Valley University in 2021
 - 💞️ 
 - 📫 You can reach me at seth.callister3@gmail.com
 
